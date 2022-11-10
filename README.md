@@ -30,6 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/jKpMEKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/fWChYlk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+The Intake portion of the ticket life cycle is the portion where the client will normally create their ticket. This intake system can normally be email based, but as demostrated in the example the client will have to manually fill out their concern. The clients concern will be manually generated into a ticket for the Help desk to work.  
 
 </p>
 <p>
@@ -43,6 +45,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/C0qOHMI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/fUcAtmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+The Assignment portion of the the ticket life cycle normally is a task appointed to the System Admin. The Sys Admin will normally assign tickets to the approproate department. 
 
 </p>
 <p>
@@ -58,6 +62,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <img src="https://i.imgur.com/YooDGC9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Communucation is very important when it comes to the life cycle of a ticket. As seen in the example you have to get the ticket to the right department or handle it ourselves. You also have to communicate with the client if needed to keep them updated.   
+  
 </p>
 <p>
 
@@ -74,9 +80,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/QTFRWoe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/rSgehDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+Working the issue in the Ticket-Cycle can be as simple as getting the issue to the right department, to figuring out the issue on your own. You just have to remmeber to keep communication clear.   
+  
 </p>
 <p>
 
+  
 Resolution
 
 </p>
@@ -87,6 +97,6 @@ Resolution
 </p>
 <p>
 
-
+Finding a resolution can be difficult in the Ticket Life-cycle at times, but as long as you keep your comunication clear with your team and the client you should be fine. 
 
 
