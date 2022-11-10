@@ -24,38 +24,56 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
 Intake
 
+<p>
+<img src="https://i.imgur.com/jKpMEKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/fWChYlk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+
+Assignment 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ci5iNCr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/fUcAtmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 
-Assignment and Communication
+
+Communication
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lEhSBzY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/fSW6vbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
+
+
+
 
 Working the Issue
 
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m5VPDFj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/rSgehDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -63,6 +81,12 @@ Resolution
 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/HknfvP9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 
 
 
