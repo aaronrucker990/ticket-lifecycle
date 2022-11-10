@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-Intake
+1. Intake
 
 <p>
 <img src="https://i.imgur.com/jKpMEKM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -34,7 +34,7 @@ Intake
 </p>
 <p>
 
-Assignment 
+2. Assignment 
 
 </p>
 <br />
@@ -48,7 +48,7 @@ Assignment
 <p>
 
 
-Communication
+3. Communication
 
 </p>
 <br />
@@ -64,7 +64,7 @@ Communication
 
 
 
-Working the Issue
+4. Working the Issue
 
 
 </p>
